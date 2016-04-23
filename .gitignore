@@ -1,3 +1,14 @@
+.settings
+.idea
+*.iml
+target/
+/diy/
+target
+.settings/*
+!.settings/.jsdtscope
+.project
+.classpath
+
 *.class
 
 # Mobile Tools for Java (J2ME)
