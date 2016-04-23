@@ -9,7 +9,7 @@ target
 .project
 .classpath
 *.metadata/
-
+.metadata/
 *.class
 
 # Mobile Tools for Java (J2ME)
